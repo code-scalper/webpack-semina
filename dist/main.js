@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=30..reduce(((e,t)=>e+t),0)/30..length;document.querySelector("#result").innerHTML=`결과값 : ${e}`})();

@@ -1,1 +1,1 @@
-(()=>{"use strict";const e=30..reduce(((e,t)=>e+t),0)/30..length;document.querySelector("#result").innerHTML=`결과값 : ${e}`})();
+(()=>{"use strict";const e=(r=[30,80,50]).reduce(((e,r)=>e+r),0)/r.length;var r;document.querySelector("#result").innerHTML=`결과값 : ${e}`})();
